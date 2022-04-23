@@ -1,6 +1,11 @@
 package com.simplilearn.calculator;
 
-public class arithematicCalculator {
+
+/*
+ * arithematicCalculator implements a structure of a calculator. 
+ * It also has multiple inheritance implemented
+ */
+public class arithematicCalculator implements simpleCalculator,premiumCalculator{
 	
 	int a;
 	int b;
@@ -31,7 +36,7 @@ public class arithematicCalculator {
 		this.a=a;
 		this.b=b;
 		try {
-			if(b == 0 || a == 0) {
+			if(b == 0) {
 				System.out.println("This is invalid input");
 		    }
 		}
@@ -61,6 +66,7 @@ public class arithematicCalculator {
 		return(Math.pow(a, b));
 	}
 	
-	
 
 }
+	
+
