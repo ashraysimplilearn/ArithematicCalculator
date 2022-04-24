@@ -9,6 +9,7 @@ public class casioCalculator {
 		
 	arithematicCalculator c = new arithematicCalculator();
 	
+	
 	double result;
 	try (var num1 = new Scanner(System.in)) {
 		System.out.println("Enter First Value");
