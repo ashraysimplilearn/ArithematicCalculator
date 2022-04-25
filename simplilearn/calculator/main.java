@@ -1,6 +1,14 @@
+/*
+ * Objective: This application is designed to give the customer an option
+ * to select different brands of calculator
+ */
 package com.simplilearn.calculator;
 
 import java.util.Scanner;
+/*
+ * This is a Main program which contains an option for the user
+ * to select the type of calculator
+ */
 
 public class main {
 	

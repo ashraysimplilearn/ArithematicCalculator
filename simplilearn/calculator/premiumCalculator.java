@@ -1,3 +1,6 @@
+/*
+ * This is a structure of premium calculator
+ */
 package com.simplilearn.calculator;
 
 public interface premiumCalculator {

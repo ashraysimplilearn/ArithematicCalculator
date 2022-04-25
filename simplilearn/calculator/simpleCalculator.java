@@ -1,3 +1,7 @@
+/*
+ * This is a structure of Basic Calculator
+ */
+
 package com.simplilearn.calculator;
 
 public interface simpleCalculator {

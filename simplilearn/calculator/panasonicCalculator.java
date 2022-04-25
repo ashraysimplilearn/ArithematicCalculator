@@ -1,3 +1,7 @@
+/*
+ * Client 2 - Panasonic has selected both the basic features and advance
+ * features of calculator.
+ */
 package com.simplilearn.calculator;
 
 import java.util.Scanner;

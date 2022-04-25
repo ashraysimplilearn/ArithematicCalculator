@@ -1,3 +1,7 @@
+/*
+ * Client 1 -- Casio who has selected basic types of features for its 
+ * calculator
+ */
 package com.simplilearn.calculator;
 
 import java.util.Scanner;
